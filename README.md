@@ -1,7 +1,7 @@
 # Can of Books
 
 **Author**: Peter Brightmore
-**Version**: 1.0.0
+**Version**: 1.0.2
 
 ## Overview
 
@@ -18,8 +18,11 @@ Books are life-changing. They have the power to enlighten, educate, entertain, h
 ## Change Log
 
 1. cloned template repos and uploaded to netlify.
+2. added mongoose to server
 
 ## Estimates
+
+### Estimate 1
 
 Name of feature: upload starter repositories to the cloud
 
@@ -27,8 +30,20 @@ Estimate of time needed to complete: 15m
 
 Start time: 14:00
 
-Finish time: 14:15
+Finish time: 14:30
 
-Actual time needed to complete: 15 minutes
+Actual time needed to complete: 30 minutes
+
+## Estimate 2
+
+Name of feature: add mongoose to server
+
+Estimate of time needed to complete: 60m
+
+Start time: 15:00
+
+Finish time: 16:50
+
+Actual time needed to complete: 110 minutes
 
 ## Credit and Collaborations
