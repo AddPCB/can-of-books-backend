@@ -1,7 +1,7 @@
 # Can of Books
 
 **Author**: Peter Brightmore
-**Version**: 1.0.2
+**Version**: 1.0.4
 
 ## Overview
 
@@ -20,6 +20,7 @@ Books are life-changing. They have the power to enlighten, educate, entertain, h
 1. cloned template repos and uploaded to netlify.
 1. added mongoose to server
 1. added bestBooks react component
+1. added /about route and create About.js react component.
 
 ## Estimates
 
@@ -58,5 +59,17 @@ Start time: 13:45
 Finish time: 14:40
 
 Actual time needed to complete: 55 minutes
+
+## Estimate 4
+
+Name of feature: add /about route and create About.js react component.
+
+Estimate of time needed to complete: 30m
+
+Start time: 13:10
+
+Finish time: 14:00
+
+Actual time needed to complete: 50 minutes
 
 ## Credit and Collaborations

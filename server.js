@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 const Book = require("./models/book");
 const PORT = process.env.PORT || 8080;
 const app = express();
-
+console.log(`server env: ${process.env.NODE_DEV_ENV}`);
 // Use ternary operator to conditionally enable CORS when in development mode
 process.env.NODE_DEV_ENV === "development"
   ? app.use((req, res, next) => {
