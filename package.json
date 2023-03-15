@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "cross-env REACT_DEV_ENV=development nodemon server.js"
   },
   "keywords": [],
   "author": "",
